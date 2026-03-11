@@ -1,0 +1,358 @@
+[
+  {
+    "@id": "https://ValyVanDenBroeck.github.io/ldes-access-right/stream",
+    "https://w3id.org/tree#member": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC/20250914"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/NORMAL/20250914"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC/20250914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Not publicly accessible for privacy, security or other reasons. Usage note: This category may include resources that contain sensitive or personal information."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "nicht öffentlich"
+      },
+      {
+        "@language": "pl",
+        "@value": "niepubliczny"
+      },
+      {
+        "@language": "fi",
+        "@value": "ei-julkinen"
+      },
+      {
+        "@language": "no",
+        "@value": "ikke-allmenn tilgang"
+      },
+      {
+        "@language": "pt",
+        "@value": "não público"
+      },
+      {
+        "@language": "nn",
+        "@value": "ikkje-allmenn tilgang"
+      },
+      {
+        "@language": "fr",
+        "@value": "non public"
+      },
+      {
+        "@language": "mt",
+        "@value": "mhux pubbliku"
+      },
+      {
+        "@language": "lv",
+        "@value": "nav publisks"
+      },
+      {
+        "@language": "ro",
+        "@value": "neaccesibil publicului"
+      },
+      {
+        "@language": "nb",
+        "@value": "ikke-allmenn tilgang"
+      },
+      {
+        "@language": "lt",
+        "@value": "neviešas"
+      },
+      {
+        "@language": "cs",
+        "@value": "neveřejné"
+      },
+      {
+        "@language": "sk",
+        "@value": "neverejné"
+      },
+      {
+        "@language": "es",
+        "@value": "no público"
+      },
+      {
+        "@language": "sl",
+        "@value": "nejavno"
+      },
+      {
+        "@language": "et",
+        "@value": "mitteavalik"
+      },
+      {
+        "@language": "ga",
+        "@value": "neamhphoiblí"
+      },
+      {
+        "@language": "bg",
+        "@value": "непубличен"
+      },
+      {
+        "@language": "da",
+        "@value": "ikke-offentlig"
+      },
+      {
+        "@language": "hu",
+        "@value": "nem nyilvános"
+      },
+      {
+        "@language": "en",
+        "@value": "non-public"
+      },
+      {
+        "@language": "sv",
+        "@value": "icke-offentligt"
+      },
+      {
+        "@language": "it",
+        "@value": "non pubblico"
+      },
+      {
+        "@language": "nl",
+        "@value": "niet-openbaar"
+      },
+      {
+        "@language": "el",
+        "@value": "μη δημόσιο"
+      },
+      {
+        "@language": "hr",
+        "@value": "nije za javnu objavu"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-09-14T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/NORMAL/20250914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NORMAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2022-03-16"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NORMAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NORMAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NORMAL"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/NORMAL"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#deprecated": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": true
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Publicly accessible. This concept has been used in the schemas of IMMC, the Interinstitutional Metadata Maintenance Committee, as the predecessor of the current concept ‘public’."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "normal"
+      },
+      {
+        "@language": "cs",
+        "@value": "obvyklé"
+      },
+      {
+        "@language": "sl",
+        "@value": "običajno"
+      },
+      {
+        "@language": "lt",
+        "@value": "normalus"
+      },
+      {
+        "@language": "sk",
+        "@value": "normálne"
+      },
+      {
+        "@language": "en",
+        "@value": "normal"
+      },
+      {
+        "@language": "pl",
+        "@value": "zwykły"
+      },
+      {
+        "@language": "lv",
+        "@value": "parasts"
+      },
+      {
+        "@language": "el",
+        "@value": "κανονικό"
+      },
+      {
+        "@language": "ro",
+        "@value": "normal"
+      },
+      {
+        "@language": "hu",
+        "@value": "normál"
+      },
+      {
+        "@language": "et",
+        "@value": "tavaline"
+      },
+      {
+        "@language": "pt",
+        "@value": "normal"
+      },
+      {
+        "@language": "es",
+        "@value": "normal"
+      },
+      {
+        "@language": "nl",
+        "@value": "normaal"
+      },
+      {
+        "@language": "da",
+        "@value": "normal"
+      },
+      {
+        "@language": "mt",
+        "@value": "normali"
+      },
+      {
+        "@language": "it",
+        "@value": "normale"
+      },
+      {
+        "@language": "fi",
+        "@value": "tavanomainen"
+      },
+      {
+        "@language": "bg",
+        "@value": "нормален"
+      },
+      {
+        "@language": "ga",
+        "@value": "normálta"
+      },
+      {
+        "@language": "hr",
+        "@value": "tipično"
+      },
+      {
+        "@language": "sv",
+        "@value": "normal åtkomst"
+      },
+      {
+        "@language": "fr",
+        "@value": "normal"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-09-14T00:00:00+00:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "@id": "https://ValyVanDenBroeck.github.io/ldes-access-right/stream",
+    "https://w3id.org/tree#member": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL/20250914"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL/20250914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-03-17"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Information that is not disclosed. Usage note: Disclosure of this data could cause damage to interested parties such as public administrations and businesses. It may refer to personal and professional information as well as to information in the context of business, commerce or trade."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "поверителен"
+      },
+      {
+        "@language": "lv",
+        "@value": "konfidenciāls"
+      },
+      {
+        "@language": "en",
+        "@value": "confidential"
+      },
+      {
+        "@language": "da",
+        "@value": "fortrolig"
+      },
+      {
+        "@language": "ga",
+        "@value": "rúnda"
+      },
+      {
+        "@language": "el",
+        "@value": "εμπιστευτικό"
+      },
+      {
+        "@language": "sl",
+        "@value": "zaupno"
+      },
+      {
+        "@language": "nl",
+        "@value": "vertrouwelijk"
+      },
+      {
+        "@language": "pl",
+        "@value": "poufny"
+      },
+      {
+        "@language": "ro",
+        "@value": "confidențial"
+      },
+      {
+        "@language": "fi",
+        "@value": "luottamuksellinen"
+      },
+      {
+        "@language": "et",
+        "@value": "konfidentsiaalne"
+      },
+      {
+        "@language": "es",
+        "@value": "confidencial"
+      },
+      {
+        "@language": "de",
+        "@value": "vertraulich"
+      },
+      {
+        "@language": "sk",
+        "@value": "dôverné"
+      },
+      {
+        "@language": "it",
+        "@value": "riservato"
+      },
+      {
+        "@language": "hu",
+        "@value": "bizalmas"
+      },
+      {
+        "@language": "sv",
+        "@value": "konfidentiellt"
+      },
+      {
+        "@language": "fr",
+        "@value": "confidentiel"
+      },
+      {
+        "@language": "mt",
+        "@value": "kunfidenzjali"
+      },
+      {
+        "@language": "lt",
+        "@value": "konfidencialus"
+      },
+      {
+        "@language": "cs",
+        "@value": "důvěrné"
+      },
+      {
+        "@language": "hr",
+        "@value": "povjerljivo"
+      },
+      {
+        "@language": "pt",
+        "@value": "confidencial"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-09-14T00:00:00+00:00"
+      }
+    ]
+  }
+]

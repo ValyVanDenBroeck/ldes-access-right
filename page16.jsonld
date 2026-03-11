@@ -1,0 +1,171 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC/20240612",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Not publicly accessible for privacy, security or other reasons. Usage note: This category may include resources that contain sensitive or personal information."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "ga",
+        "@value": "neamhphoiblí"
+      },
+      {
+        "@language": "bg",
+        "@value": "непубличен"
+      },
+      {
+        "@language": "da",
+        "@value": "ikke-offentlig"
+      },
+      {
+        "@language": "hu",
+        "@value": "nem nyilvános"
+      },
+      {
+        "@language": "en",
+        "@value": "non-public"
+      },
+      {
+        "@language": "sv",
+        "@value": "icke-offentligt"
+      },
+      {
+        "@language": "it",
+        "@value": "non pubblico"
+      },
+      {
+        "@language": "nl",
+        "@value": "niet-openbaar"
+      },
+      {
+        "@language": "el",
+        "@value": "μη δημόσιο"
+      },
+      {
+        "@language": "hr",
+        "@value": "nije za javnu objavu"
+      },
+      {
+        "@language": "de",
+        "@value": "nicht öffentlich"
+      },
+      {
+        "@language": "pl",
+        "@value": "niepubliczny"
+      },
+      {
+        "@language": "fi",
+        "@value": "ei-julkinen"
+      },
+      {
+        "@language": "pt",
+        "@value": "não público"
+      },
+      {
+        "@language": "fr",
+        "@value": "non public"
+      },
+      {
+        "@language": "mt",
+        "@value": "mhux pubbliku"
+      },
+      {
+        "@language": "lv",
+        "@value": "nav publisks"
+      },
+      {
+        "@language": "ro",
+        "@value": "neaccesibil publicului"
+      },
+      {
+        "@language": "lt",
+        "@value": "neviešas"
+      },
+      {
+        "@language": "cs",
+        "@value": "neveřejné"
+      },
+      {
+        "@language": "sk",
+        "@value": "neverejné"
+      },
+      {
+        "@language": "es",
+        "@value": "no público"
+      },
+      {
+        "@language": "sl",
+        "@value": "nejavno"
+      },
+      {
+        "@language": "et",
+        "@value": "mitteavalik"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2024-06-12T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://ValyVanDenBroeck.github.io/ldes-access-right/stream",
+    "https://w3id.org/tree#member": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC/20240612"
+      }
+    ]
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "@id": "https://ValyVanDenBroeck.github.io/ldes-access-right/stream",
+    "https://w3id.org/tree#member": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/SENSITIVE/20250914"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/OP_DATPRO/20250914"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/OP_DATPRO/20250914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "bg",
+        "@value": "Неокончателни данни"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-09-14T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/SENSITIVE/20250914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SENSITIVE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SENSITIVE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SENSITIVE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SENSITIVE"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/SENSITIVE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "fr",
+        "@value": "Informations «sensibles non classifiées» (SNC), informations dont la divulgation non autorisée pourrait causer un préjudice à la Commission ou à d’autres parties intéressées telles que les entreprises, les sociétés, la propriété intellectuelle ou les données à caractère personnel, mais qui ne sont pas des informations classifiées de l’UE."
+      },
+      {
+        "@language": "en",
+        "@value": "Sensitive non-classified (SNC) information, information whose unauthorised disclosure could cause damage to the Commission or other interested parties such as businesses, companies, intellectual property or personal data but which is not EU classified information."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "it",
+        "@value": "sensibile"
+      },
+      {
+        "@language": "sv",
+        "@value": "känsligt"
+      },
+      {
+        "@language": "bg",
+        "@value": "чувствителен"
+      },
+      {
+        "@language": "hr",
+        "@value": "osjetljivo"
+      },
+      {
+        "@language": "lt",
+        "@value": "neskelbtinas"
+      },
+      {
+        "@language": "fi",
+        "@value": "arkaluonteinen"
+      },
+      {
+        "@language": "es",
+        "@value": "sensible"
+      },
+      {
+        "@language": "de",
+        "@value": "sensibel"
+      },
+      {
+        "@language": "lv",
+        "@value": "sensitīvs"
+      },
+      {
+        "@language": "el",
+        "@value": "ευαίσθητο"
+      },
+      {
+        "@language": "et",
+        "@value": "tundlik"
+      },
+      {
+        "@language": "cs",
+        "@value": "citlivé"
+      },
+      {
+        "@language": "pl",
+        "@value": "sensytywny"
+      },
+      {
+        "@language": "sk",
+        "@value": "citlivé"
+      },
+      {
+        "@language": "fr",
+        "@value": "sensible"
+      },
+      {
+        "@language": "mt",
+        "@value": "sensittiv"
+      },
+      {
+        "@language": "nl",
+        "@value": "gevoelig"
+      },
+      {
+        "@language": "sl",
+        "@value": "občutljivo"
+      },
+      {
+        "@language": "ga",
+        "@value": "íogair"
+      },
+      {
+        "@language": "pt",
+        "@value": "sensível"
+      },
+      {
+        "@language": "ro",
+        "@value": "sensibil"
+      },
+      {
+        "@language": "da",
+        "@value": "følsom"
+      },
+      {
+        "@language": "en",
+        "@value": "sensitive"
+      },
+      {
+        "@language": "hu",
+        "@value": "érzékeny"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-09-14T00:00:00+00:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/RESTRICTED/20250914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "RESTRICTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "RESTRICTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "RESTRICTED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "RESTRICTED"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/RESTRICTED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Only available under certain conditions. Usage note: This category may include resources that require payment, resources shared under non-disclosure agreements, resources for which the publisher or owner has not yet decided if they can be publicly released."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "ro",
+        "@value": "cu acces restricționat"
+      },
+      {
+        "@language": "pt",
+        "@value": "restrito"
+      },
+      {
+        "@language": "el",
+        "@value": "περιορισμένης χρήσης"
+      },
+      {
+        "@language": "et",
+        "@value": "piiratud"
+      },
+      {
+        "@language": "nl",
+        "@value": "beperkt"
+      },
+      {
+        "@language": "bg",
+        "@value": "с ограничен достъп"
+      },
+      {
+        "@language": "da",
+        "@value": "begrænset"
+      },
+      {
+        "@language": "lt",
+        "@value": "taikomi ribojimai"
+      },
+      {
+        "@language": "cs",
+        "@value": "vyhrazeno"
+      },
+      {
+        "@language": "de",
+        "@value": "eingeschränkt"
+      },
+      {
+        "@language": "sk",
+        "@value": "vyhradené"
+      },
+      {
+        "@language": "sv",
+        "@value": "begränsad åtkomst"
+      },
+      {
+        "@language": "es",
+        "@value": "restringido"
+      },
+      {
+        "@language": "pl",
+        "@value": "zastrzeżony"
+      },
+      {
+        "@language": "fi",
+        "@value": "rajoitettu"
+      },
+      {
+        "@language": "hu",
+        "@value": "korlátozott terjesztésű"
+      },
+      {
+        "@language": "hr",
+        "@value": "ograničen pristup"
+      },
+      {
+        "@language": "lv",
+        "@value": "ierobežotas pieejamības"
+      },
+      {
+        "@language": "it",
+        "@value": "limitato"
+      },
+      {
+        "@language": "sl",
+        "@value": "interno"
+      },
+      {
+        "@language": "en",
+        "@value": "restricted"
+      },
+      {
+        "@language": "mt",
+        "@value": "ristrett"
+      },
+      {
+        "@language": "fr",
+        "@value": "restreint"
+      },
+      {
+        "@language": "ga",
+        "@value": "teoranta"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-09-14T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://ValyVanDenBroeck.github.io/ldes-access-right/stream",
+    "https://w3id.org/tree#member": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/RESTRICTED/20250914"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/SENSITIVE/20250914"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/SENSITIVE/20250914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SENSITIVE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SENSITIVE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SENSITIVE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SENSITIVE"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/SENSITIVE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "fr",
+        "@value": "Informations «sensibles non classifiées» (SNC), informations dont la divulgation non autorisée pourrait causer un préjudice à la Commission ou à d’autres parties intéressées telles que les entreprises, les sociétés, la propriété intellectuelle ou les données à caractère personnel, mais qui ne sont pas des informations classifiées de l’UE."
+      },
+      {
+        "@language": "en",
+        "@value": "Sensitive non-classified (SNC) information, information whose unauthorised disclosure could cause damage to the Commission or other interested parties such as businesses, companies, intellectual property or personal data but which is not EU classified information."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "it",
+        "@value": "sensibile"
+      },
+      {
+        "@language": "sv",
+        "@value": "känsligt"
+      },
+      {
+        "@language": "bg",
+        "@value": "чувствителен"
+      },
+      {
+        "@language": "hr",
+        "@value": "osjetljivo"
+      },
+      {
+        "@language": "lt",
+        "@value": "neskelbtinas"
+      },
+      {
+        "@language": "fi",
+        "@value": "arkaluonteinen"
+      },
+      {
+        "@language": "es",
+        "@value": "sensible"
+      },
+      {
+        "@language": "de",
+        "@value": "sensibel"
+      },
+      {
+        "@language": "lv",
+        "@value": "sensitīvs"
+      },
+      {
+        "@language": "el",
+        "@value": "ευαίσθητο"
+      },
+      {
+        "@language": "et",
+        "@value": "tundlik"
+      },
+      {
+        "@language": "cs",
+        "@value": "citlivé"
+      },
+      {
+        "@language": "pl",
+        "@value": "sensytywny"
+      },
+      {
+        "@language": "sk",
+        "@value": "citlivé"
+      },
+      {
+        "@language": "fr",
+        "@value": "sensible"
+      },
+      {
+        "@language": "mt",
+        "@value": "sensittiv"
+      },
+      {
+        "@language": "nl",
+        "@value": "gevoelig"
+      },
+      {
+        "@language": "sl",
+        "@value": "občutljivo"
+      },
+      {
+        "@language": "ga",
+        "@value": "íogair"
+      },
+      {
+        "@language": "pt",
+        "@value": "sensível"
+      },
+      {
+        "@language": "ro",
+        "@value": "sensibil"
+      },
+      {
+        "@language": "da",
+        "@value": "følsom"
+      },
+      {
+        "@language": "en",
+        "@value": "sensitive"
+      },
+      {
+        "@language": "hu",
+        "@value": "érzékeny"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-09-14T00:00:00+00:00"
+      }
+    ]
+  }
+]

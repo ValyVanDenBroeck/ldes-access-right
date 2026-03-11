@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://ValyVanDenBroeck.github.io/ldes-access-right/stream",
+    "@type": [
+      "https://w3id.org/ldes#EventStream"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "EU Access Right Authority Table - LDES"
+      }
+    ],
+    "https://w3id.org/ldes#timestampPath": [
+      {
+        "@id": "https://w3id.org/ns/prov#generatedAtTime"
+      }
+    ],
+    "https://w3id.org/ldes#versionOfPath": [
+      {
+        "@id": "http://purl.org/dc/terms/isVersionOf"
+      }
+    ],
+    "https://w3id.org/tree#view": [
+      {
+        "@id": "https://ValyVanDenBroeck.github.io/ldes-access-right/page1"
+      }
+    ]
+  }
+]

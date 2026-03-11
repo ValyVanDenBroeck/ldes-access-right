@@ -1,0 +1,183 @@
+[
+  {
+    "@id": "https://ValyVanDenBroeck.github.io/ldes-access-right/stream",
+    "https://w3id.org/tree#member": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/PUBLIC/20250914"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/PUBLIC/20250914",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PUBLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PUBLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PUBLIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PUBLIC"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Publicly accessible by everyone. Usage note: Permissible obstacles include registration and request for API keys, as long as anyone can request such registration and/or API keys."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "ga",
+        "@value": "poiblí"
+      },
+      {
+        "@language": "lv",
+        "@value": "publiski pieejams"
+      },
+      {
+        "@language": "bg",
+        "@value": "публичен"
+      },
+      {
+        "@language": "sv",
+        "@value": "offentligt"
+      },
+      {
+        "@language": "ro",
+        "@value": "public"
+      },
+      {
+        "@language": "es",
+        "@value": "público"
+      },
+      {
+        "@language": "en",
+        "@value": "public"
+      },
+      {
+        "@language": "da",
+        "@value": "offentlig"
+      },
+      {
+        "@language": "no",
+        "@value": "allmenn tilgang"
+      },
+      {
+        "@language": "nn",
+        "@value": "allmenn tilgang"
+      },
+      {
+        "@language": "mt",
+        "@value": "pubbliku"
+      },
+      {
+        "@language": "et",
+        "@value": "avalik"
+      },
+      {
+        "@language": "it",
+        "@value": "pubblico"
+      },
+      {
+        "@language": "sl",
+        "@value": "javno"
+      },
+      {
+        "@language": "nb",
+        "@value": "allmenn tilgang"
+      },
+      {
+        "@language": "pl",
+        "@value": "publiczny"
+      },
+      {
+        "@language": "hu",
+        "@value": "nyilvános"
+      },
+      {
+        "@language": "cs",
+        "@value": "veřejné"
+      },
+      {
+        "@language": "fr",
+        "@value": "public"
+      },
+      {
+        "@language": "hr",
+        "@value": "za javnu objavu"
+      },
+      {
+        "@language": "lt",
+        "@value": "viešas"
+      },
+      {
+        "@language": "sk",
+        "@value": "verejné"
+      },
+      {
+        "@language": "el",
+        "@value": "δημόσιο"
+      },
+      {
+        "@language": "pt",
+        "@value": "público"
+      },
+      {
+        "@language": "nl",
+        "@value": "openbaar"
+      },
+      {
+        "@language": "de",
+        "@value": "öffentlich"
+      },
+      {
+        "@language": "fi",
+        "@value": "julkinen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2025-09-14T00:00:00+00:00"
+      }
+    ]
+  }
+]

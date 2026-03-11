@@ -1,0 +1,335 @@
+[
+  {
+    "@id": "https://ValyVanDenBroeck.github.io/ldes-access-right/stream",
+    "https://w3id.org/tree#member": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL/20240612"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/PUBLIC/20240612"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/PUBLIC/20240612",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PUBLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PUBLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PUBLIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PUBLIC"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Publicly accessible by everyone. Usage note: Permissible obstacles include registration and request for API keys, as long as anyone can request such registration and/or API keys."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "nl",
+        "@value": "openbaar"
+      },
+      {
+        "@language": "pt",
+        "@value": "público"
+      },
+      {
+        "@language": "el",
+        "@value": "δημόσιο"
+      },
+      {
+        "@language": "de",
+        "@value": "öffentlich"
+      },
+      {
+        "@language": "fi",
+        "@value": "julkinen"
+      },
+      {
+        "@language": "ga",
+        "@value": "poiblí"
+      },
+      {
+        "@language": "bg",
+        "@value": "публичен"
+      },
+      {
+        "@language": "lv",
+        "@value": "publiski pieejams"
+      },
+      {
+        "@language": "sv",
+        "@value": "offentligt"
+      },
+      {
+        "@language": "es",
+        "@value": "público"
+      },
+      {
+        "@language": "ro",
+        "@value": "public"
+      },
+      {
+        "@language": "en",
+        "@value": "public"
+      },
+      {
+        "@language": "da",
+        "@value": "offentlig"
+      },
+      {
+        "@language": "cs",
+        "@value": "veřejné"
+      },
+      {
+        "@language": "sl",
+        "@value": "javno"
+      },
+      {
+        "@language": "mt",
+        "@value": "pubbliku"
+      },
+      {
+        "@language": "pl",
+        "@value": "publiczny"
+      },
+      {
+        "@language": "it",
+        "@value": "pubblico"
+      },
+      {
+        "@language": "et",
+        "@value": "avalik"
+      },
+      {
+        "@language": "hu",
+        "@value": "nyilvános"
+      },
+      {
+        "@language": "fr",
+        "@value": "public"
+      },
+      {
+        "@language": "lt",
+        "@value": "viešas"
+      },
+      {
+        "@language": "hr",
+        "@value": "za javnu objavu"
+      },
+      {
+        "@language": "sk",
+        "@value": "verejné"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2024-06-12T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL/20240612",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-03-17"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Information that is not disclosed. Usage note: Disclosure of this data could cause damage to interested parties such as public administrations and businesses. It may refer to personal and professional information as well as to information in the context of business, commerce or trade."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "pt",
+        "@value": "confidencial"
+      },
+      {
+        "@language": "bg",
+        "@value": "поверителен"
+      },
+      {
+        "@language": "en",
+        "@value": "confidential"
+      },
+      {
+        "@language": "lv",
+        "@value": "konfidenciāls"
+      },
+      {
+        "@language": "da",
+        "@value": "fortrolig"
+      },
+      {
+        "@language": "ga",
+        "@value": "rúnda"
+      },
+      {
+        "@language": "nl",
+        "@value": "vertrouwelijk"
+      },
+      {
+        "@language": "el",
+        "@value": "εμπιστευτικό"
+      },
+      {
+        "@language": "sl",
+        "@value": "zaupno"
+      },
+      {
+        "@language": "pl",
+        "@value": "poufny"
+      },
+      {
+        "@language": "ro",
+        "@value": "confidențial"
+      },
+      {
+        "@language": "fi",
+        "@value": "luottamuksellinen"
+      },
+      {
+        "@language": "et",
+        "@value": "konfidentsiaalne"
+      },
+      {
+        "@language": "de",
+        "@value": "vertraulich"
+      },
+      {
+        "@language": "es",
+        "@value": "confidencial"
+      },
+      {
+        "@language": "sk",
+        "@value": "dôverné"
+      },
+      {
+        "@language": "hu",
+        "@value": "bizalmas"
+      },
+      {
+        "@language": "sv",
+        "@value": "konfidentiellt"
+      },
+      {
+        "@language": "it",
+        "@value": "riservato"
+      },
+      {
+        "@language": "fr",
+        "@value": "confidentiel"
+      },
+      {
+        "@language": "lt",
+        "@value": "konfidencialus"
+      },
+      {
+        "@language": "mt",
+        "@value": "kunfidenzjali"
+      },
+      {
+        "@language": "hr",
+        "@value": "povjerljivo"
+      },
+      {
+        "@language": "cs",
+        "@value": "důvěrné"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2024-06-12T00:00:00+00:00"
+      }
+    ]
+  }
+]

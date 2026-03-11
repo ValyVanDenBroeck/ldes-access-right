@@ -1,0 +1,335 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC/20240612",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NON_PUBLIC"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Not publicly accessible for privacy, security or other reasons. Usage note: This category may include resources that contain sensitive or personal information."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "ga",
+        "@value": "neamhphoiblí"
+      },
+      {
+        "@language": "bg",
+        "@value": "непубличен"
+      },
+      {
+        "@language": "da",
+        "@value": "ikke-offentlig"
+      },
+      {
+        "@language": "hu",
+        "@value": "nem nyilvános"
+      },
+      {
+        "@language": "en",
+        "@value": "non-public"
+      },
+      {
+        "@language": "sv",
+        "@value": "icke-offentligt"
+      },
+      {
+        "@language": "it",
+        "@value": "non pubblico"
+      },
+      {
+        "@language": "nl",
+        "@value": "niet-openbaar"
+      },
+      {
+        "@language": "el",
+        "@value": "μη δημόσιο"
+      },
+      {
+        "@language": "hr",
+        "@value": "nije za javnu objavu"
+      },
+      {
+        "@language": "de",
+        "@value": "nicht öffentlich"
+      },
+      {
+        "@language": "pl",
+        "@value": "niepubliczny"
+      },
+      {
+        "@language": "fi",
+        "@value": "ei-julkinen"
+      },
+      {
+        "@language": "pt",
+        "@value": "não público"
+      },
+      {
+        "@language": "fr",
+        "@value": "non public"
+      },
+      {
+        "@language": "mt",
+        "@value": "mhux pubbliku"
+      },
+      {
+        "@language": "lv",
+        "@value": "nav publisks"
+      },
+      {
+        "@language": "ro",
+        "@value": "neaccesibil publicului"
+      },
+      {
+        "@language": "lt",
+        "@value": "neviešas"
+      },
+      {
+        "@language": "cs",
+        "@value": "neveřejné"
+      },
+      {
+        "@language": "sk",
+        "@value": "neverejné"
+      },
+      {
+        "@language": "es",
+        "@value": "no público"
+      },
+      {
+        "@language": "sl",
+        "@value": "nejavno"
+      },
+      {
+        "@language": "et",
+        "@value": "mitteavalik"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2024-06-12T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL/20240612",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-03-17"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CONFIDENTIAL"
+      }
+    ],
+    "http://purl.org/dc/terms/isVersionOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Information that is not disclosed. Usage note: Disclosure of this data could cause damage to interested parties such as public administrations and businesses. It may refer to personal and professional information as well as to information in the context of business, commerce or trade."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "pt",
+        "@value": "confidencial"
+      },
+      {
+        "@language": "bg",
+        "@value": "поверителен"
+      },
+      {
+        "@language": "en",
+        "@value": "confidential"
+      },
+      {
+        "@language": "lv",
+        "@value": "konfidenciāls"
+      },
+      {
+        "@language": "da",
+        "@value": "fortrolig"
+      },
+      {
+        "@language": "ga",
+        "@value": "rúnda"
+      },
+      {
+        "@language": "nl",
+        "@value": "vertrouwelijk"
+      },
+      {
+        "@language": "el",
+        "@value": "εμπιστευτικό"
+      },
+      {
+        "@language": "sl",
+        "@value": "zaupno"
+      },
+      {
+        "@language": "pl",
+        "@value": "poufny"
+      },
+      {
+        "@language": "ro",
+        "@value": "confidențial"
+      },
+      {
+        "@language": "fi",
+        "@value": "luottamuksellinen"
+      },
+      {
+        "@language": "et",
+        "@value": "konfidentsiaalne"
+      },
+      {
+        "@language": "de",
+        "@value": "vertraulich"
+      },
+      {
+        "@language": "es",
+        "@value": "confidencial"
+      },
+      {
+        "@language": "sk",
+        "@value": "dôverné"
+      },
+      {
+        "@language": "hu",
+        "@value": "bizalmas"
+      },
+      {
+        "@language": "sv",
+        "@value": "konfidentiellt"
+      },
+      {
+        "@language": "it",
+        "@value": "riservato"
+      },
+      {
+        "@language": "fr",
+        "@value": "confidentiel"
+      },
+      {
+        "@language": "lt",
+        "@value": "konfidencialus"
+      },
+      {
+        "@language": "mt",
+        "@value": "kunfidenzjali"
+      },
+      {
+        "@language": "hr",
+        "@value": "povjerljivo"
+      },
+      {
+        "@language": "cs",
+        "@value": "důvěrné"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right"
+      }
+    ],
+    "https://w3id.org/ns/prov#generatedAtTime": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2024-06-12T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "@id": "https://ValyVanDenBroeck.github.io/ldes-access-right/stream",
+    "https://w3id.org/tree#member": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC/20240612"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL/20240612"
+      }
+    ]
+  }
+]
